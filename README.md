@@ -9,6 +9,8 @@ To control the position of motor having the following specifications using MATLA
 ## Apparatus Required:
 Computer with MATLAB software
 ## Theory: 
+<img width="761" height="1280" alt="image" src="https://github.com/user-attachments/assets/4e6a2851-d687-4ac9-95ab-dc65766948b0" />
+<img width="1576" height="1600" alt="image" src="https://github.com/user-attachments/assets/0113a5b7-800f-43d4-9e1a-b2966d24a277" />
 
 
 ## Procedure:
